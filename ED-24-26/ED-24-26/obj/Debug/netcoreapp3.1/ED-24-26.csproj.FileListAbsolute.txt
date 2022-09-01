@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.exe
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.deps.json
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.runtimeconfig.json
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.dll
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\bin\Debug\netcoreapp3.1\ED-24-26.pdb
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.dll
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.pdb
+C:\Users\gabri\source\repos\ED-24-26\ED-24-26\obj\Debug\netcoreapp3.1\ED-24-26.genruntimeconfig.cache
